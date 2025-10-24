@@ -1,5 +1,5 @@
 # Lead-Herd
-Code for review of Strömbom et al. Re-solving the .. . Submitted to Animal Behaviour. Download all files in this folder and follow the instructions below.
+Code for review of Strömbom et al. Re-solving the .. . Submitted. Download all files in this folder and follow the instructions below.
 
 
 To re-generate Figures 1A and 1B from 1. the simulation data used in the manuscript run the function makeFig1AB.m or 2. from new simulations run the function Fig1AB.m.
